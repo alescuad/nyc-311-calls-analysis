@@ -71,4 +71,5 @@ Use correct file path here to show picture of Dashboard...
 
 ### Deployment
 
-The project was deployed on Tableau Public: (link here)
+The project was deployed on Tableau Public:
+[Map Dashboard](https://public.tableau.com/app/profile/alessandro.cuadros/viz/CommunityDistrictBreakdown/MapDashboard#1)
