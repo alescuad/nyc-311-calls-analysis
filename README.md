@@ -43,7 +43,7 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/img/dimensional_model.JPG)
+![Alt text](/img/Dimension Model.png)
 
 This project's Kimball Bus Matrix:
 
@@ -62,7 +62,7 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 
 Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.JPG)
+![Alt text](/img/wireframe_design.png)
 
 Picture of final Dashboard:
 
