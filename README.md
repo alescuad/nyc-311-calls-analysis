@@ -46,7 +46,7 @@ This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 
 # Kimball Bus Matrix:
 
-![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/kimball_bus_matrix.png)
+
 
 # Business Intelligence Design and Development
 
