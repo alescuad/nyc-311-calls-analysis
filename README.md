@@ -43,12 +43,12 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/nyc-311-calls-analysis/img/dimension_model.png)
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/dimension_model.png)
 
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/nyc-311-calls-analysis/img/kimball_bus_matrix.png)
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/kimball_bus_matrix.png)
 
 # Business Intelligence Design and Development
 
