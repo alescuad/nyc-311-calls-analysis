@@ -66,7 +66,7 @@ Picture of final Dashboard:
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/boro_noise_dashboard.png)
 ---
-![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/agency_dashboard.png)
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/agency_complaint_dashboard.png)
 ---
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/map_dashboard.png)
 
