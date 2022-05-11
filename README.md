@@ -64,10 +64,16 @@ Use correct file path here to show picture of Wireframe design...
 
 Picture of final Dashboard:
 
-Use correct file path here to show picture of Dashboard...
-![Alt text](/img/Dashboard.JPG)
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/boro_noise_dashboard.png)
+---
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/agency_dashboard.png)
+---
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/map_dashboard.png)
 
 ### Deployment
 
 The project was deployed on Tableau Public:
-[Map Dashboard](https://public.tableau.com/app/profile/alessandro.cuadros/viz/CommunityDistrictBreakdown/MapDashboard#1)
+- [Map Dashboard](https://public.tableau.com/views/CommunityDistrictBreakdown/MapDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Agency Dashboard](https://public.tableau.com/views/CIS9440-Group9-AgencyDashboardNYC311Calls/AgencyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Borough-Noise Dashboard](https://public.tableau.com/views/CIS9440-Group9-Borough-NoiseNYC311Calls/Borough-NoiseDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
