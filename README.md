@@ -20,7 +20,7 @@ The tools used to build this Data Warehouse were:
 To get a detailed view at NYC's 311 calls. 
 
 ### Description of the issues or opportunities the project will address:
-Allocation of resources is one of the primary issues that could be addressed by this study. Agencies who see higher traffic of open cases could benefit from acquiring more resources from their local government.
+Allocation of resources is one of the primary issues that could be addressed by this study. For example, agencies who see higher traffic of open cases could benefit from acquiring more resources from their local government.
 
 ### Project Business or Organization Value:
 (state value here)
@@ -32,12 +32,11 @@ Allocation of resources is one of the primary issues that could be addressed by 
 # Business Requirements Definition
 
 List of Data Warehouse KPI's:
-1.
-2.
-3.
-4.
-5.
-...
+1. Total Complaints per Borough
+2. Number of Cases Handled by Agency
+3. Top NYC Agencies
+4. Average Noise Complaints per Week
+5. Ratio of Closed and Open Cases per Agency
 
 ## Dimensional Model
 
@@ -54,10 +53,11 @@ Use correct file path here to show picture of dimensional model...
 # Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
-1. Bar Chart for comparison of ...
-2.
-3.
-...
+1. Bar Chart for comparison of the five boroughs and the total calls made per borough
+2. Bar Chart for comparison of the different agencies and the cases they each handled
+3. Pie Chart for comparison of the top 3 NYC agencies and their allocation %
+4. Line Chart for comparison of weekly number of noise complaints 
+5. Two Bar Chart for comparison of closed versus open cases ratio
 
 BI Application Wireframe design:
 
