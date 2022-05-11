@@ -57,11 +57,11 @@ List of Visualizations for each KPI:
 4. Line Chart for comparison of weekly number of noise complaints 
 5. Two Bar Chart for comparison of closed versus open cases ratio
 
-## BI Application Wireframe design:
+### BI Application Wireframe design:
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/wireframe_design.png)
 
-## Picture of final Dashboards:
+### Picture of final Dashboards:
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/boro_noise_dashboard.png)
 ---
@@ -69,7 +69,7 @@ List of Visualizations for each KPI:
 ---
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/map_dashboard.png)
 
-### Deployment
+# Deployment
 
 The project was deployed on Tableau Public:
 - [Map Dashboard](https://public.tableau.com/views/CommunityDistrictBreakdown/MapDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
