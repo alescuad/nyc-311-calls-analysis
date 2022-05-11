@@ -23,7 +23,7 @@ To get a detailed view at NYC's 311 calls.
 Allocation of resources is one of the primary issues that could be addressed by this study. For example, agencies who see higher traffic of open cases could benefit from acquiring more resources from their local government.
 
 ### Project Business or Organization Value:
-(state value here)
+This project prides in its transparency and accuracy. We aim to give anyone an unbiased look at NYC's 311 call data.
 
 # Data Sources:
 1. [311 Service Requests from 2010 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
@@ -57,12 +57,11 @@ List of Visualizations for each KPI:
 4. Line Chart for comparison of weekly number of noise complaints 
 5. Two Bar Chart for comparison of closed versus open cases ratio
 
-BI Application Wireframe design:
+## BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.png)
+![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/wireframe_design.png)
 
-Picture of final Dashboard:
+## Picture of final Dashboards:
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/boro_noise_dashboard.png)
 ---
