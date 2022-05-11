@@ -3,10 +3,10 @@
 - Date created: May 7, 2022
 - Class: CIS 9440 (Baruch College - Zicklin School of Business)
 
-## Project Objective 
+# Project Objective 
 Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Application
 
-## Project Tools
+# Project Tools
 The tools used to build this Data Warehouse were:
 1. For data integration - Python
 2. For data warehousing - Google BigQuery
@@ -38,13 +38,13 @@ List of Data Warehouse KPI's:
 4. Average Noise Complaints per Week
 5. Ratio of Closed and Open Cases per Agency
 
-## Dimensional Model
+# Dimensional Model
 
 This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/dimension_model.png)
 
-## Kimball Bus Matrix:
+# Kimball Bus Matrix:
 
 ![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/kimball_bus_matrix.png)
 
