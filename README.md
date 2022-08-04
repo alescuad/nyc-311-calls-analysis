@@ -1,5 +1,5 @@
 # NYC 311 Calls Analysis
-- Author(s): Alessandro Cuadros, Amanda Ma, Louise Jiang, Xinru Wang
+- Author(s): Alessandro Cuadros
 - Date created: May 7, 2022
 - Class: CIS 9440 (Baruch College - Zicklin School of Business)
 
@@ -56,10 +56,6 @@ List of Visualizations for each KPI:
 3. Pie Chart for comparison of the top 3 NYC agencies and their allocation %
 4. Line Chart for comparison of weekly number of noise complaints 
 5. Two Bar Chart for comparison of closed versus open cases ratio
-
-### BI Application Wireframe design:
-
-![Alt text](https://raw.githubusercontent.com/alescuad/nyc-311-calls-analysis/main/img/wireframe_design.png)
 
 ### Picture of final Dashboards:
 
